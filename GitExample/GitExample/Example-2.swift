@@ -24,4 +24,7 @@ struct Person6 {
     let age: Int = 14
     let description: String = "description2"
     let g: String = "gggh"
+    
 }
+// jfvnfjvnfjknfkjvnfjkv
+//dvjkndvkdv
