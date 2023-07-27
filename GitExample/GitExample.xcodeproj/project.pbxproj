@@ -11,8 +11,11 @@
 		8D96CDC02A73163700E4DB06 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D96CDBF2A73163700E4DB06 /* ContentView.swift */; };
 		8D96CDC22A73163800E4DB06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D96CDC12A73163800E4DB06 /* Assets.xcassets */; };
 		8D96CDC52A73163800E4DB06 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D96CDC42A73163800E4DB06 /* Preview Assets.xcassets */; };
+<<<<<<< HEAD
 		8D96CDCC2A7316DC00E4DB06 /* Example-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D96CDCB2A7316DC00E4DB06 /* Example-1.swift */; };
 		8D96CDCE2A7317C300E4DB06 /* Example-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D96CDCD2A7317C300E4DB06 /* Example-2.swift */; };
+=======
+>>>>>>> parent of 6fb6043 (Commit-2)
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,8 +24,11 @@
 		8D96CDBF2A73163700E4DB06 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8D96CDC12A73163800E4DB06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D96CDC42A73163800E4DB06 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		8D96CDCB2A7316DC00E4DB06 /* Example-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Example-1.swift"; sourceTree = "<group>"; };
 		8D96CDCD2A7317C300E4DB06 /* Example-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Example-2.swift"; sourceTree = "<group>"; };
+=======
+>>>>>>> parent of 6fb6043 (Commit-2)
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +63,11 @@
 			children = (
 				8D96CDBD2A73163700E4DB06 /* GitExampleApp.swift */,
 				8D96CDBF2A73163700E4DB06 /* ContentView.swift */,
+<<<<<<< HEAD
 				8D96CDCB2A7316DC00E4DB06 /* Example-1.swift */,
 				8D96CDCD2A7317C300E4DB06 /* Example-2.swift */,
+=======
+>>>>>>> parent of 6fb6043 (Commit-2)
 				8D96CDC12A73163800E4DB06 /* Assets.xcassets */,
 				8D96CDC32A73163800E4DB06 /* Preview Content */,
 			);
@@ -143,8 +152,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
 				8D96CDCC2A7316DC00E4DB06 /* Example-1.swift in Sources */,
 				8D96CDCE2A7317C300E4DB06 /* Example-2.swift in Sources */,
+=======
+>>>>>>> parent of 6fb6043 (Commit-2)
 				8D96CDC02A73163700E4DB06 /* ContentView.swift in Sources */,
 				8D96CDBE2A73163700E4DB06 /* GitExampleApp.swift in Sources */,
 			);
