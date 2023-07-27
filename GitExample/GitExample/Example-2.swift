@@ -11,4 +11,5 @@ struct Person2 {
     let name: String = "name2"
     let age: Int = 14
     let description: String = "description2"
+    let g: String = "gggh"
 }
